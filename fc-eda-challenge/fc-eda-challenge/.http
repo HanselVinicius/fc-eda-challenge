@@ -1,0 +1,13 @@
+@base_address = http://localhost:3003
+
+###
+
+# @name get balances by id (acc1)
+GET {{base_address}}/v1/balances/acc1
+Accept: application/json
+
+###
+
+# @name get balances by id (acc2)
+GET {{base_address}}/v1/balances/acc2
+Accept: application/json
