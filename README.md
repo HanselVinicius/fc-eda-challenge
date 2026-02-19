@@ -1,6 +1,6 @@
 # FC EDA PROJECT
 
-## Feito em java e usado o projeto de golang cedido no curso
+## Feito em kotlin e usado o projeto de golang cedido no curso
 
 ### Para rodar
 
